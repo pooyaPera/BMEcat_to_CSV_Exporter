@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BMECatProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d154bf02bc56c8dce7b9ce822182f80ee1e22e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a7ed2de78b0017d52ede1840a4cec4dbc27dfcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BMECatProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BMECatProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
