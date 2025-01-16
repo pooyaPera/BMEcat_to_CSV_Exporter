@@ -9,7 +9,7 @@
       "BMECatProject/1.0.0": {
         "dependencies": {
           "BMECat.net": "4.5.0",
-          "EPPlus": "7.5.2"
+          "EPPlus": "7.5.3"
         },
         "runtime": {
           "BMECatProject.dll": {}
@@ -23,7 +23,7 @@
           }
         }
       },
-      "EPPlus/7.5.2": {
+      "EPPlus/7.5.3": {
         "dependencies": {
           "EPPlus.System.Drawing": "7.5.0",
           "Microsoft.Extensions.Configuration.Json": "8.0.1",
@@ -34,8 +34,8 @@
         },
         "runtime": {
           "lib/net8.0/EPPlus.dll": {
-            "assemblyVersion": "7.5.2.0",
-            "fileVersion": "7.5.2.0"
+            "assemblyVersion": "7.5.3.0",
+            "fileVersion": "7.5.3.0"
           }
         }
       },
@@ -219,12 +219,12 @@
       "path": "bmecat.net/4.5.0",
       "hashPath": "bmecat.net.4.5.0.nupkg.sha512"
     },
-    "EPPlus/7.5.2": {
+    "EPPlus/7.5.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-qHJurPvgWoheHyyam53NV8d2CiOO2q88Rg/Lk0wSYwi/aoGDtzYihTMCHeTwGM9zHZnnI3aVLu482SODN+HB4g==",
-      "path": "epplus/7.5.2",
-      "hashPath": "epplus.7.5.2.nupkg.sha512"
+      "sha512": "sha512-cfiJ/AGUSGfkWpXZjbF1saOIXpoH/g6u/DC82ynJIUJZxrJfK7wUuCuYQJwCJ8tOaEcEzB4JcX2k0UHSqnfSqQ==",
+      "path": "epplus/7.5.3",
+      "hashPath": "epplus.7.5.3.nupkg.sha512"
     },
     "EPPlus.Interfaces/7.5.0": {
       "type": "package",

@@ -15,7 +15,7 @@
           }
         }
       },
-      "EPPlus/7.5.2": {
+      "EPPlus/7.5.3": {
         "type": "package",
         "dependencies": {
           "EPPlus.System.Drawing": "7.5.0",
@@ -346,15 +346,15 @@
         "lib/netstandard2.0/s2industries.BMECat.net.xml"
       ]
     },
-    "EPPlus/7.5.2": {
-      "sha512": "qHJurPvgWoheHyyam53NV8d2CiOO2q88Rg/Lk0wSYwi/aoGDtzYihTMCHeTwGM9zHZnnI3aVLu482SODN+HB4g==",
+    "EPPlus/7.5.3": {
+      "sha512": "cfiJ/AGUSGfkWpXZjbF1saOIXpoH/g6u/DC82ynJIUJZxrJfK7wUuCuYQJwCJ8tOaEcEzB4JcX2k0UHSqnfSqQ==",
       "type": "package",
-      "path": "epplus/7.5.2",
+      "path": "epplus/7.5.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "EPPlusLogo.png",
-        "epplus.7.5.2.nupkg.sha512",
+        "epplus.7.5.3.nupkg.sha512",
         "epplus.nuspec",
         "lib/net35/EPPlus.dll",
         "lib/net35/EPPlus.xml",
@@ -923,7 +923,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "BMECat.net >= 4.5.0",
-      "EPPlus >= 7.5.2"
+      "EPPlus >= 7.5.3"
     ]
   },
   "packageFolders": {
@@ -975,7 +975,7 @@
           },
           "EPPlus": {
             "target": "Package",
-            "version": "[7.5.2, )"
+            "version": "[7.5.3, )"
           }
         },
         "imports": [

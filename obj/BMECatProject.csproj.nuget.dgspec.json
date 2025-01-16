@@ -50,7 +50,7 @@
             },
             "EPPlus": {
               "target": "Package",
-              "version": "[7.5.2, )"
+              "version": "[7.5.3, )"
             }
           },
           "imports": [
