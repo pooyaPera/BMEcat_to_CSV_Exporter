@@ -96,5 +96,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any questions or feedback, feel free to reach out:
 
-- **Author**: [Your Name](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [pooyaPera](https://github.com/pooyaPera)
